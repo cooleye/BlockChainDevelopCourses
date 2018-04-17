@@ -1,4 +1,5 @@
-# 区块链开发合集
+# 区块链入门案例合集
+
 
 - [blockchain.js](https://github.com/cooleye/blockchain.js) JavaScript版本的区跨链实现
 
